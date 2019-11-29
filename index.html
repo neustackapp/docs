@@ -5,45 +5,47 @@
   <title>NeuStack Documentation</title>
   <link rel="icon" href="favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Build AWS Azure GCP serverless solutions in under a minute, built in continuous integration continuous deployment (CI/CD) security governance">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-UA-153504418-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <!-- Site theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.min.css">
 
-    gtag('config', 'UA-153504418-1');
-  </script></head>
+<!-- PrismJS theme -->
+<link rel="stylesheet" href="path/to/prismjs-theme.css">
 
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: 'NeuStack',
       repo: '',
-      subMaxLevel: 2,
+      maxLevel   : 3,
+      subMaxLevel: 3,
       auto2top: true,
       coverpage: false,
       themeColor: '#2389cc',
+      homepage   : 'introduction.md',
+      loadSidebar: true,
       loadNavbar: true,
+      logo: 'https://www.neustack.app/assets/images/icons/NeuStack_Logo.png',
       search: {
-      noData: {
-        "/": "No results!"
+        depth      : 3,
+        noData: {
+          "/": "No results!"
+        },
+        paths: "auto",
+        placeholder: {
+          "/": "Search"
+        }
       },
-      paths: "auto",
-      placeholder: {
-        "/": "Search"
-      }
-    },
+      ga : 'UA-153504418-1'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/search.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/zoom-image.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
-<script src="_plugins/api-search.js"></script>
+<!-- <script src="_plugins/api-search.js"></script> -->
 </body>
 </html>
