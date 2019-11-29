@@ -1,1 +1,1 @@
-* [Oficial website](https://www.neustack.app ':ignore')
+* [NeuStack Home](https://www.neustack.app ':ignore')
