@@ -17,3 +17,8 @@ See the [Quick start](quickstart.md) guide for more details.
 - Security
 
 ## Contact & Support
+
+* Product: https://www.neustack.app/
+* Slack: https://neustackapp.slack.com/
+* LinkedIn: https://linkedin.com/company/neustack
+* Twitter: https://twitter.com/NeustackA
