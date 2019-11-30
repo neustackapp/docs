@@ -10,8 +10,10 @@ See the [Quick start](quickstart.md) guide to get started.
 
 ## Features
 - CI/CD for all your NeuStack apps
+- Support for [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/), [Bitbucket](https://bitbucket.org/), [GitLab](https://gitlab.com/)
+- Runtime support for [Go](https://golang.org/), [Java](https://www.java.com), [NodeJS](https://nodejs.org/en/), [Python](https://www.python.org/), 
 - Automatic Environment Management 
-- Support for all the popular serverless services
+- Support for all the popular AWS serverless services
 - Governance
 - Compliance
 - Security
