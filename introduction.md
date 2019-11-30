@@ -19,7 +19,7 @@ See the [Quick start](quickstart.md) guide to get started.
 - Security
 
 ## Contact & Support
-
+* Email: support@neustack.app
 * Product: https://www.neustack.app/
 * Slack: https://neustackapp.slack.com/
 * LinkedIn: https://linkedin.com/company/neustack
