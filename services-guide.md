@@ -53,11 +53,15 @@ Create [Angular](https://angular.io/), [React](https://reactjs.org/), [Vue](http
 
 Your `Website` will be available shortly.
 
-## Build
+## Build & Deploy
 
-## Deploy
+NeuStack comes with a built-in Continuous Integration/Continuous Deployment (CI/CD) platform so that your developers have one less thing to worry about. Once developers push changes to `origin`, NeuStack will detect the changes and start building as well as deploying your changes to the respective environment. 
 
 ## Environments
+By default, NeuStack deploys any changes to `master` (merged PRs or direct push) to your production environment. 
+
+When NeuStack detects a new branch is created on `origin`, it will build the source code in the new branch as well as create and deploy to a new environment. For any changes to a `non-master` branch, it builds and deploys the changes to only that environment, thereby keeping the environments isolated from other changes.
 
 ## Templates
 
+NeuStack comes with best practices templates for the service types selected along with the run-time. 
