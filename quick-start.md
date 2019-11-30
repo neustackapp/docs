@@ -15,7 +15,7 @@ Creating an API is a simple process. Once you login, follow the steps below:
 * `Description` - (Optional) Provide service description 
 * Click `Submit`
 
-Your `API` will be available shortly.
+Your `API` endpoint will be available to use instantly.
 
 ## Create Function
 
