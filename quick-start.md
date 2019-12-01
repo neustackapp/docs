@@ -8,11 +8,11 @@ Creating an API is a simple process. Once you login, follow the steps below:
 
 * Click on Create Service
 * `Type`: Select "API" here
-* `Provider` - Select from the choices available. The options available are set by your admins.
+* `Provider` - Select from the choices available. The options available are set by your admins
 * `Runtime` - Select the appropriate language runtime. The runtime options available are based on the Provider selected and what your admins have made available
-* `Name` - Give a name to your service 
+* `Name` - Give a name to your service
 * `Team` - Select your project/team name
-* `Description` - (Optional) Provide service description 
+* `Description` - (Optional) Provide service description
 * Click `Submit`
 
 Your `API` endpoint will be available to use instantly.
@@ -22,8 +22,8 @@ Your `API` endpoint will be available to use instantly.
 You can create different types of functions through a simple process. Once you login, follow the steps below:
 
 * Click on Create Service
-* `Type`: Select "Function" here
-* `Provider` - Select from the choices available. The options available are set by your admins.
+* `Type`: Select "Function" here.
+* `Provider` - Select from the choices available. The options available are set by your admins
 * `Runtime` - Select the appropriate language runtime. The runtime options available are based on the Provider selected and what your admins have made available
 * `Name` - Give a name to your service 
 * `Team` - Select your project/team name
@@ -40,7 +40,7 @@ Create [Angular](https://angular.io/), [React](https://reactjs.org/), [Vue](http
 
 * Click on Create Service
 * `Type`: Select "Website" here
-* `Provider` - Select from the choices available. The options available are set by your admins.
+* `Provider` - Select from the choices available. The options available are set by your admins
 * `Framework` - Select the framework that you would like to use. The framework options available are set by your admins
 * `Name` - Give a name to your service 
 * `Team` - Select your project/team name

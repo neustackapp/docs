@@ -6,7 +6,7 @@
 
 NeuStack accelerates building of your serverless applications using modern practices and tooling. NeuStack takes away all the grunt work of building CI/CD pipelines, figuring out the cloud deployment models, managing various environments through configuration.
 
-See the [Quick start](quickstart.md) guide to get started.
+See the [quick start](quick-start.md) guide to get started.
 
 ## Features
 - **CI/CD**: Turnkey CI/CD for all your NeuStack apps that includes build, running unit tests, security scan, code quality reports, gated approvals and more.
